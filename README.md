@@ -47,7 +47,7 @@ cd mewtwo-py
 Скрипт запуска
 
 ```sh
-python main.py -f "absolute_path_to_file" -t "absolute_path_to_file_with_tests" -c "config"
+python main.py -f "absolute_path_to_dir/mewtwo/example/example.py" -t "absolute_path_to_dir/mewtwo/example/test_example.py" -c "config"
 ```
 
 ## Примечания
